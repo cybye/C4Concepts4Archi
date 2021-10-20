@@ -2,6 +2,10 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Container, Web Browser"
     id="id-d2a65de23d3743499c08bb9210d516b6">
+  <properties
+      key="description"/>
+  <properties
+      key="technology"/>
   <profiles
       href="folder.xml#id-eb7554f416d3480ab9eda416200669dc"/>
 </archimate:ApplicationComponent>

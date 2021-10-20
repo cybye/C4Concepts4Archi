@@ -5,6 +5,8 @@
   <properties
       key="technology"
       value="&lt;from prop: 'technology'>"/>
+  <properties
+      key="description"/>
   <profiles
       href="folder.xml#id-8881b818c0754d6abf948558b615e6c4"/>
 </archimate:ApplicationComponent>

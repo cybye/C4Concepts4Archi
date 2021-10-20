@@ -2,6 +2,10 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Container, Mobile App"
     id="id-1d3bfbb782ca4e228e36735cfedec77e">
+  <properties
+      key="technology"/>
+  <properties
+      key="description"/>
   <profiles
       href="folder.xml#id-9b17555050d04b8fb6f9a7186dc2d931"/>
 </archimate:ApplicationComponent>
