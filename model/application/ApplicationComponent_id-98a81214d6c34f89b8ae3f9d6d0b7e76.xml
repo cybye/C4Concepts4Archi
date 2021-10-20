@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Software System"
     id="id-98a81214d6c34f89b8ae3f9d6d0b7e76"
-    documentation="Or the Element Documentation.">
+    documentation="Or the Elements Documentation.">
   <properties
       key="description"
       value="You can use property description."/>
