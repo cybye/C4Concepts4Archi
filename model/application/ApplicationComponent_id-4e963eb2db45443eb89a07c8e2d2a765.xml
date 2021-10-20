@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Application Component"
+    name="Container"
     id="id-4e963eb2db45443eb89a07c8e2d2a765">
   <properties
       key="technology"
