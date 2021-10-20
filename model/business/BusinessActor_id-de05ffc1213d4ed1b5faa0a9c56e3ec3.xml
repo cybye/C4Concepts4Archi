@@ -1,0 +1,7 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Actor"
+    id="id-de05ffc1213d4ed1b5faa0a9c56e3ec3">
+  <profiles
+      href="folder.xml#id-ba89421d41714010ad8ffd42a0a98456"/>
+</archimate:BusinessActor>
