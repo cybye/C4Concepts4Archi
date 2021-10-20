@@ -90,7 +90,7 @@
         value="0"/>
     <features
         name="labelExpression"
-        value="${name}&#xD;&#xA;&#xD;&#xA;[${specialization}: ${property:technology}]&#xD;&#xA;${property:description} ${documentation}"/>
+        value="${name}&#xD;&#xA;&#xD;&#xA;[Container: ${property:technology}]&#xD;&#xA;${property:description} ${documentation}"/>
     <bounds
         x="14"
         y="217"
@@ -305,5 +305,21 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-98a81214d6c34f89b8ae3f9d6d0b7e76.xml#id-98a81214d6c34f89b8ae3f9d6d0b7e76"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ff894906f0c24f64b9f6b0193fffdd69"
+      textAlignment="1"
+      alpha="200"
+      content="This is a Semi-transparent Note: use this note to fade out elements&#xD;&#xA;"
+      borderType="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="2"
+        y="852"
+        width="229"
+        height="140"/>
   </children>
 </archimate:ArchimateDiagramModel>
