@@ -224,35 +224,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ebc09e1d565f4c8dad8b592d07a4403d"
-      fontColor="#ffffff"
-      fillColor="#808080"
-      textPosition="1"
-      imagePosition="9"
-      type="1">
-    <features
-        name="lineAlpha"
-        value="180"/>
-    <features
-        name="labelExpression"
-        value="${name}&#xD;&#xA;&#xD;&#xA;[${specialization}]&#xD;&#xA;${property:description} ${documentation}"/>
-    <features
-        name="imageSource"
-        value="1"/>
-    <features
-        name="iconVisible"
-        value="2"/>
-    <bounds
-        x="14"
-        y="504"
-        width="182"
-        height="124"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-fcc5f121bcbc4e5eb76435b097946a4e.xml#id-fcc5f121bcbc4e5eb76435b097946a4e"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8609e944bd5d4166974910193c1fac53"
       fontColor="#ffffff"
       alpha="0"
@@ -300,6 +271,35 @@
     <bounds
         x="12"
         y="84"
+        width="185"
+        height="122"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-98a81214d6c34f89b8ae3f9d6d0b7e76.xml#id-98a81214d6c34f89b8ae3f9d6d0b7e76"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7613401360fe4f49bb67e8fe61f802f4"
+      fontColor="#ffffff"
+      fillColor="#808080"
+      textPosition="1"
+      imagePosition="9"
+      type="1">
+    <features
+        name="lineAlpha"
+        value="180"/>
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;&#xD;&#xA;[${specialization}]&#xD;&#xA;${property:description} ${documentation}"/>
+    <features
+        name="imageSource"
+        value="1"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="12"
+        y="505"
         width="185"
         height="122"/>
     <archimateElement
