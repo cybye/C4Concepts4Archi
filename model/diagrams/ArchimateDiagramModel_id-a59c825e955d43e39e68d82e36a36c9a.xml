@@ -17,7 +17,7 @@
         value="0"/>
     <features
         name="labelExpression"
-        value="${name}&#xD;&#xA;&#xD;&#xA;[${specialization}]&#xD;&#xA;${property:description} ${documentation}"/>
+        value="${name}&#xD;&#xA;[${specialization}]&#xD;&#xA;&#xD;&#xA;${property:description} ${documentation}"/>
     <bounds
         x="14"
         y="648"
@@ -39,7 +39,7 @@
         value="26"/>
     <features
         name="labelExpression"
-        value="${name}&#xD;&#xA;&#xD;&#xA;[${specialization}]&#xD;&#xA;${property:description} ${documentation}"/>
+        value="${name}&#xD;&#xA;[${specialization}]&#xD;&#xA;&#xD;&#xA;${property:description} ${documentation}"/>
     <bounds
         x="228"
         y="361"
@@ -59,7 +59,7 @@
       type="1">
     <features
         name="labelExpression"
-        value="${name}&#xD;&#xA;&#xD;&#xA;[${specialization}: ${property:technology}]&#xD;&#xA;${property:description} ${documentation}"/>
+        value="${name}&#xD;&#xA;[${specialization}: ${property:technology}]&#xD;&#xA;&#xD;&#xA;${property:description} ${documentation}"/>
     <features
         name="imageSource"
         value="1"/>
@@ -90,7 +90,7 @@
         value="0"/>
     <features
         name="labelExpression"
-        value="${name}&#xD;&#xA;&#xD;&#xA;[Container: ${property:technology}]&#xD;&#xA;${property:description} ${documentation}"/>
+        value="${name}&#xD;&#xA;[Container: ${property:technology}]&#xD;&#xA;&#xD;&#xA;${property:description} ${documentation}"/>
     <bounds
         x="14"
         y="217"
@@ -112,7 +112,7 @@
         value="0"/>
     <features
         name="labelExpression"
-        value="${name}&#xD;&#xA;&#xD;&#xA;[Container: ${property:technology}]&#xD;&#xA;${property:description} ${documentation}"/>
+        value="${name}&#xD;&#xA;[Container: ${property:technology}]&#xD;&#xA;&#xD;&#xA;${property:description} ${documentation}"/>
     <bounds
         x="13"
         y="360"
@@ -134,7 +134,7 @@
         value="0"/>
     <features
         name="labelExpression"
-        value="${name}&#xD;&#xA;&#xD;&#xA;[Container:  ${property:technology}]&#xD;&#xA;${property:description} ${documentation}"/>
+        value="${name}&#xD;&#xA;[Container:  ${property:technology}]&#xD;&#xA;&#xD;&#xA;${property:description} ${documentation}"/>
     <bounds
         x="229"
         y="216"
@@ -188,8 +188,8 @@
           href="FlowRelationship_id-a93da3a1d10a47afaa68166984c4221a.xml#id-a93da3a1d10a47afaa68166984c4221a"/>
     </sourceConnections>
     <bounds
-        x="204"
-        y="538"
+        x="-10"
+        y="852"
         width="37"
         height="55"/>
     <archimateElement
@@ -214,8 +214,8 @@
         name="lineAlpha"
         value="0"/>
     <bounds
-        x="408"
-        y="538"
+        x="194"
+        y="852"
         width="37"
         height="55"/>
     <archimateElement
@@ -235,7 +235,7 @@
         value="0"/>
     <features
         name="labelExpression"
-        value="${name}&#xD;&#xA;&#xD;&#xA;[${specialization}]&#xD;&#xA;${property:description} ${documentation}"/>
+        value="${name}&#xD;&#xA;[${specialization}]&#xD;&#xA;&#xD;&#xA;${property:description} ${documentation}"/>
     <features
         name="imageSource"
         value="1"/>
@@ -261,7 +261,7 @@
         value="180"/>
     <features
         name="labelExpression"
-        value="${name}&#xD;&#xA;&#xD;&#xA;[${specialization}]&#xD;&#xA;${property:description} ${documentation}"/>
+        value="${name}&#xD;&#xA;[${specialization}]&#xD;&#xA;&#xD;&#xA;${property:description} ${documentation}"/>
     <features
         name="imageSource"
         value="1"/>
@@ -290,7 +290,7 @@
         value="180"/>
     <features
         name="labelExpression"
-        value="${name}&#xD;&#xA;&#xD;&#xA;[${specialization}]&#xD;&#xA;${property:description} ${documentation}"/>
+        value="${name}&#xD;&#xA;[${specialization}]&#xD;&#xA;&#xD;&#xA;${property:description} ${documentation}"/>
     <features
         name="imageSource"
         value="1"/>
@@ -318,8 +318,38 @@
         value="0"/>
     <bounds
         x="2"
-        y="852"
+        y="924"
         width="229"
         height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-89fa35adf1924f678f755bd6b91212de"
+      textAlignment="1"
+      fillColor="#ffffff"
+      alpha="0"
+      textPosition="2"
+      imagePosition="9"
+      type="1">
+    <features
+        name="lineAlpha"
+        value="180"/>
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;[${specialization}]"/>
+    <features
+        name="imageSource"
+        value="1"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="226"
+        y="505"
+        width="185"
+        height="122"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-98a81214d6c34f89b8ae3f9d6d0b7e76.xml#id-98a81214d6c34f89b8ae3f9d6d0b7e76"/>
   </children>
 </archimate:ArchimateDiagramModel>
