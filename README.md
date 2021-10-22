@@ -3,7 +3,7 @@
 Archi model with some graphical elements from C4 Model https://c4model.com .
 
 Mapping to Archimate is following the approach in https://www.archimatetool.com/blog/2020/04/18/c4-model-architecture-viewpoint-and-archi-4-7/ with the following exceptions:
-	- C4 relations are mapped to flow-relationship in Archimate. 
+- C4 relations are mapped to flow-relationship in Archimate. 
   
 This requires Archi 4.9+ with coArchi 0.8+
 
