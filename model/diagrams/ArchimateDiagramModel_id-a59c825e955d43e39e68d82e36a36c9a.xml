@@ -44,6 +44,12 @@
     <features
         name="labelExpression"
         value="${name}&#xD;&#xA;[${specialization}]&#xD;&#xA;&#xD;&#xA;${property:description} ${documentation}"/>
+    <features
+        name="imageSource"
+        value="1"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
         x="228"
         y="361"
@@ -378,10 +384,14 @@
       textAlignment="1"
       fillColor="#00aae5"
       textPosition="2"
+      imagePath="images/_FVOVkDcLEeyGn9YlsgiTtw.png"
       type="1">
     <features
         name="labelExpression"
         value="${name}&#xD;&#xA;[Container: ${property:technology}]"/>
+    <features
+        name="imageSource"
+        value="1"/>
     <bounds
         x="153"
         y="1128"
@@ -413,7 +423,11 @@
       textAlignment="1"
       fillColor="#808080"
       textPosition="2"
+      imagePath="images/_Jt60IDcLEeyGn9YlsgiTtw.png"
       type="1">
+    <features
+        name="imageSource"
+        value="1"/>
     <bounds
         x="14"
         y="1344"
@@ -430,10 +444,14 @@
       textAlignment="1"
       fillColor="#00aae5"
       textPosition="2"
+      imagePath="images/_HFag0DcLEeyGn9YlsgiTtw.png"
       type="1">
     <features
         name="labelExpression"
         value="${name}&#xD;&#xA;[Container: ${property:technology}]"/>
+    <features
+        name="imageSource"
+        value="1"/>
     <bounds
         x="14"
         y="1200"
@@ -450,10 +468,14 @@
       textAlignment="1"
       fillColor="#00aae5"
       textPosition="2"
+      imagePath="images/_QY6sgDcLEeyGn9YlsgiTtw.png"
       type="1">
     <features
         name="labelExpression"
         value="${name}&#xD;&#xA;[Container: ${property:technology}]"/>
+    <features
+        name="imageSource"
+        value="1"/>
     <bounds
         x="153"
         y="1200"
@@ -470,10 +492,14 @@
       textAlignment="1"
       fillColor="#00aae5"
       textPosition="2"
+      imagePath="images/_Lg3YcDcLEeyGn9YlsgiTtw.png"
       type="1">
     <features
         name="labelExpression"
         value="${name}&#xD;&#xA;[Container: ${property:technology}]"/>
+    <features
+        name="imageSource"
+        value="1"/>
     <bounds
         x="14"
         y="1272"
@@ -489,7 +515,11 @@
       fontColor="#ffffff"
       textAlignment="1"
       fillColor="#005f8c"
-      textPosition="2">
+      textPosition="2"
+      imagePath="images/_NMTmkDcLEeyGn9YlsgiTtw.png">
+    <features
+        name="imageSource"
+        value="1"/>
     <bounds
         x="14"
         y="1416"
@@ -530,7 +560,11 @@
       fontColor="#ffffff"
       textAlignment="1"
       fillColor="#808080"
-      textPosition="2">
+      textPosition="2"
+      imagePath="images/_NMTmkDcLEeyGn9YlsgiTtw.png">
+    <features
+        name="imageSource"
+        value="1"/>
     <bounds
         x="153"
         y="1416"
