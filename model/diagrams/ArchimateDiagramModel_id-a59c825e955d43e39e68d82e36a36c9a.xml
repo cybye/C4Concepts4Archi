@@ -30,6 +30,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bc56e8f87bcc46d68f600e1f15f231b9"
+      fillColor="#ffffff"
       alpha="0"
       textPosition="1"
       imagePosition="9"
@@ -82,6 +83,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-74260dd263e1418caa35837a089d3bb9"
       fontColor="#ffffff"
+      fillColor="#00aae5"
       alpha="0"
       textPosition="2"
       imagePosition="9">
@@ -104,6 +106,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-793cc7d5f32f40fd9de6a9cdad77c3bc"
       fontColor="#ffffff"
+      fillColor="#00aae5"
       alpha="0"
       textPosition="1"
       imagePosition="9">
@@ -126,6 +129,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-52fd2c30f4e54dbd8e589e701ba6f414"
       fontColor="#ffffff"
+      fillColor="#00aae5"
       alpha="0"
       textPosition="1"
       imagePosition="9">
