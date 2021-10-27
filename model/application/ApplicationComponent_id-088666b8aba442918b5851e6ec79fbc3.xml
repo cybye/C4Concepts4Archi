@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Container, Database"
-    id="id-088666b8aba442918b5851e6ec79fbc3">
+    id="id-088666b8aba442918b5851e6ec79fbc3"
+    documentation="&#xA;">
   <properties
       key="technology"/>
   <properties

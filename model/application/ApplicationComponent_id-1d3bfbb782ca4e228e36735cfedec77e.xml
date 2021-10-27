@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Container, Mobile App"
-    id="id-1d3bfbb782ca4e228e36735cfedec77e">
+    id="id-1d3bfbb782ca4e228e36735cfedec77e"
+    documentation="&#xA;">
   <properties
       key="technology"/>
   <properties

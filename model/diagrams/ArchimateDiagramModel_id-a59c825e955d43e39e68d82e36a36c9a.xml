@@ -18,6 +18,9 @@
     <features
         name="labelExpression"
         value="${name}&#xD;&#xA;[${specialization}]&#xD;&#xA;&#xD;&#xA;${property:description} ${documentation}"/>
+    <features
+        name="imageSource"
+        value="1"/>
     <bounds
         x="14"
         y="648"
@@ -86,6 +89,7 @@
       fillColor="#00aae5"
       alpha="0"
       textPosition="2"
+      imagePath="images/_C8bYoDFtEey22dSokSfdiw.png"
       imagePosition="9">
     <features
         name="lineAlpha"
@@ -93,6 +97,9 @@
     <features
         name="labelExpression"
         value="${name}&#xD;&#xA;[Container: ${property:technology}]&#xD;&#xA;&#xD;&#xA;${property:description} ${documentation}"/>
+    <features
+        name="imageSource"
+        value="1"/>
     <bounds
         x="14"
         y="217"
@@ -109,6 +116,7 @@
       fillColor="#00aae5"
       alpha="0"
       textPosition="1"
+      imagePath="images/_YN-DoDFtEey22dSokSfdiw.png"
       imagePosition="9">
     <features
         name="lineAlpha"
@@ -116,6 +124,9 @@
     <features
         name="labelExpression"
         value="${name}&#xD;&#xA;[Container: ${property:technology}]&#xD;&#xA;&#xD;&#xA;${property:description} ${documentation}"/>
+    <features
+        name="imageSource"
+        value="1"/>
     <bounds
         x="13"
         y="360"
@@ -132,6 +143,7 @@
       fillColor="#00aae5"
       alpha="0"
       textPosition="1"
+      imagePath="images/_dTvDkDFtEey22dSokSfdiw.png"
       imagePosition="9">
     <features
         name="lineAlpha"
@@ -139,6 +151,9 @@
     <features
         name="labelExpression"
         value="${name}&#xD;&#xA;[Container:  ${property:technology}]&#xD;&#xA;&#xD;&#xA;${property:description} ${documentation}"/>
+    <features
+        name="imageSource"
+        value="1"/>
     <bounds
         x="229"
         y="216"
@@ -146,7 +161,7 @@
         height="125"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-d2a65de23d3743499c08bb9210d516b6.xml#id-d2a65de23d3743499c08bb9210d516b6"/>
+        href="ApplicationComponent_id-ac191a11061148d29fc92a6c036512a7.xml#id-ac191a11061148d29fc92a6c036512a7"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -352,6 +367,236 @@
         y="505"
         width="185"
         height="122"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-98a81214d6c34f89b8ae3f9d6d0b7e76.xml#id-98a81214d6c34f89b8ae3f9d6d0b7e76"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e19e4e190c8f4ddf8e027fb809ffa139"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#00aae5"
+      textPosition="2"
+      type="1">
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;[Container: ${property:technology}]"/>
+    <bounds
+        x="153"
+        y="1128"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-4e963eb2db45443eb89a07c8e2d2a765.xml#id-4e963eb2db45443eb89a07c8e2d2a765"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1d367b61af7a45bb97b33f21b5d08f28"
+      font="1|Segoe UI|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#000040"
+      content="Quick C4 model"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="12"
+        y="1063"
+        width="261"
+        height="43"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5726bedcc0054947b82ef6ef6939d06a"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#808080"
+      textPosition="2"
+      type="1">
+    <bounds
+        x="14"
+        y="1344"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-98a81214d6c34f89b8ae3f9d6d0b7e76.xml#id-98a81214d6c34f89b8ae3f9d6d0b7e76"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-215f32efc83a4d699f62ff276ccbd3f3"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#00aae5"
+      textPosition="2"
+      type="1">
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;[Container: ${property:technology}]"/>
+    <bounds
+        x="14"
+        y="1200"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-088666b8aba442918b5851e6ec79fbc3.xml#id-088666b8aba442918b5851e6ec79fbc3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2117c855e46d46f8ac5f721142c3e6b2"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#00aae5"
+      textPosition="2"
+      type="1">
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;[Container: ${property:technology}]"/>
+    <bounds
+        x="153"
+        y="1200"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-ac191a11061148d29fc92a6c036512a7.xml#id-ac191a11061148d29fc92a6c036512a7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-79e73950a4fe4551b8b1fb595c514a18"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#00aae5"
+      textPosition="2"
+      type="1">
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;[Container: ${property:technology}]"/>
+    <bounds
+        x="14"
+        y="1272"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-1d3bfbb782ca4e228e36735cfedec77e.xml#id-1d3bfbb782ca4e228e36735cfedec77e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9eccc045232c49309691aaa96145b980"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#005f8c"
+      textPosition="2">
+    <bounds
+        x="14"
+        y="1416"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-de05ffc1213d4ed1b5faa0a9c56e3ec3.xml#id-de05ffc1213d4ed1b5faa0a9c56e3ec3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7ffc526cda2e4e74a841d5b686629f20"
+      fontColor="#000000"
+      textAlignment="1"
+      fillColor="#000000"
+      alpha="0"
+      textPosition="2"
+      imagePath="images/_F0XdwDcNEeyGn9YlsgiTtw.png"
+      type="1">
+    <features
+        name="imageSource"
+        value="1"/>
+    <features
+        name="lineAlpha"
+        value="120"/>
+    <bounds
+        x="14"
+        y="1128"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-98a81214d6c34f89b8ae3f9d6d0b7e76.xml#id-98a81214d6c34f89b8ae3f9d6d0b7e76"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b9dc740ba23747d88cc9b490b710a35c"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#808080"
+      textPosition="2">
+    <bounds
+        x="153"
+        y="1416"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-de05ffc1213d4ed1b5faa0a9c56e3ec3.xml#id-de05ffc1213d4ed1b5faa0a9c56e3ec3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-efea19c430bc4b0ba87a530290330613"
+      textAlignment="1">
+    <features
+        name="labelExpression"
+        value="EOF"/>
+    <bounds
+        x="49"
+        y="2124"
+        width="49"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-22a6fdaef42d4d9d9d143f6bfbe56014"
+      fontColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffff"
+      alpha="0"
+      textPosition="2"
+      type="1">
+    <features
+        name="lineAlpha"
+        value="26"/>
+    <bounds
+        x="153"
+        y="1272"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-98a81214d6c34f89b8ae3f9d6d0b7e76.xml#id-98a81214d6c34f89b8ae3f9d6d0b7e76"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d0b9fbc835844303b307a56e56042c2e"
+      fontColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffff"
+      alpha="0"
+      textPosition="2"
+      type="1">
+    <features
+        name="lineAlpha"
+        value="180"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="imageSource"
+        value="1"/>
+    <bounds
+        x="153"
+        y="1344"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-98a81214d6c34f89b8ae3f9d6d0b7e76.xml#id-98a81214d6c34f89b8ae3f9d6d0b7e76"/>

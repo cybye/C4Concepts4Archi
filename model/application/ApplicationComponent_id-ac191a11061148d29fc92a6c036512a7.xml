@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Container, Web Browser"
-    id="id-d2a65de23d3743499c08bb9210d516b6">
+    name="Container, Browser "
+    id="id-ac191a11061148d29fc92a6c036512a7"
+    documentation="&#xA;">
   <properties
       key="description"/>
   <properties

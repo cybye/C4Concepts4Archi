@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Container"
-    id="id-4e963eb2db45443eb89a07c8e2d2a765">
+    id="id-4e963eb2db45443eb89a07c8e2d2a765"
+    documentation="&#xA;">
   <properties
       key="technology"
       value="&lt;from prop: 'technology'>"/>

@@ -6,40 +6,36 @@
   <profiles
       name="Person"
       id="id-ba89421d41714010ad8ffd42a0a98456"
-      imagePath="images/_Qe0cEDFsEey22dSokSfdiw.png"
+      imagePath="images/_NMTmkDcLEeyGn9YlsgiTtw.png"
       conceptType="BusinessActor"/>
   <profiles
       name="Software System"
       id="id-9578847c48a3439e8061341c77682098"
-      imagePath="images/_oFqVEDFtEey22dSokSfdiw.png"
+      imagePath="images/_Jt60IDcLEeyGn9YlsgiTtw.png"
       conceptType="ApplicationComponent"/>
   <profiles
       name="Container"
       id="id-8881b818c0754d6abf948558b615e6c4"
-      imagePath="images/_5-2ZoDFsEey22dSokSfdiw.png"
+      imagePath="images/_FVOVkDcLEeyGn9YlsgiTtw.png"
       conceptType="ApplicationComponent"/>
   <profiles
       name="Database"
       id="id-fe86f4990298413cb02994c6bd9c0352"
-      imagePath="images/_C8bYoDFtEey22dSokSfdiw.png"
+      imagePath="images/_HFag0DcLEeyGn9YlsgiTtw.png"
       conceptType="ApplicationComponent"/>
-  <profiles
-      name="Component"
-      id="id-af9a9e2b83a64b739d7b734f8ab05541"
-      conceptType="ApplicationFunction"/>
   <profiles
       name="Mobile App"
       id="id-9b17555050d04b8fb6f9a7186dc2d931"
-      imagePath="images/_YN-DoDFtEey22dSokSfdiw.png"
+      imagePath="images/_Lg3YcDcLEeyGn9YlsgiTtw.png"
       conceptType="ApplicationComponent"/>
   <profiles
       name="Web App"
       id="id-eb7554f416d3480ab9eda416200669dc"
-      imagePath="images/_dTvDkDFtEey22dSokSfdiw.png"
+      imagePath="images/_QY6sgDcLEeyGn9YlsgiTtw.png"
       conceptType="ApplicationComponent"/>
   <profiles
       name="Existing System"
       id="id-63f4ce8425aa434691711d8874f5c7d9"
-      imagePath="images/_s2N6ADFtEey22dSokSfdiw.png"
+      imagePath="images/_Jt60IDcLEeyGn9YlsgiTtw.png"
       conceptType="ApplicationComponent"/>
 </archimate:ArchimateModel>
