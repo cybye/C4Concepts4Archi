@@ -34,9 +34,4 @@
       id="id-eb7554f416d3480ab9eda416200669dc"
       imagePath="images/_F0XdwDcNEeyGn9YlsgiTtw.png"
       conceptType="ApplicationComponent"/>
-  <profiles
-      name="Existing System"
-      id="id-63f4ce8425aa434691711d8874f5c7d9"
-      imagePath="images/_Jt60IDcLEeyGn9YlsgiTtw.png"
-      conceptType="ApplicationComponent"/>
 </archimate:ArchimateModel>
